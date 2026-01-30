@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Devops and I’m learning terraform and kubernetes<br><br>
+I’m currently working on Devops and I’m learning terraform,Openshift,ansible and kubernetes<br><br>
 
 
 # 💻 Tech Stack:
